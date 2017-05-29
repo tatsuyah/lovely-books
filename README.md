@@ -1,5 +1,5 @@
 # lovely-books
-Curated list of lovely books
+Curated list of lovely books😇
 
 ## Software Design
 
