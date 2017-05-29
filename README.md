@@ -6,7 +6,7 @@ Curated list of lovely books😇
  - [Practical Object-Oriented Design in Ruby](https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Primer/dp/0134456475?_encoding=UTF8&psc=1)
  - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
  - [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=sr_1_1?s=books&ie=UTF8&qid=1496054913&sr=1-1&keywords=head+first+design+patterns)
- - [Refactoring](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=sr_1_1?s=books&ie=UTF8&qid=1496054945&sr=1-1&keywords=refactoring)
+ - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=sr_1_1?s=books&ie=UTF8&qid=1496054945&sr=1-1&keywords=refactoring)
  - [Implementation Patterns](https://www.amazon.com/Implementation-Patterns-Kent-Beck/dp/0321413091/ref=sr_1_1?s=books&ie=UTF8&qid=1496054878&sr=1-1&keywords=implementation+patterns)
  - [Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques/dp/0596802293/ref=sr_1_1?s=books&ie=UTF8&qid=1496054893&sr=1-1&keywords=readable+code)
  - [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?s=books&ie=UTF8&qid=1496054987&sr=1-1&keywords=design+patterns)
