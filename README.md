@@ -14,3 +14,5 @@ Curated list of lovely books😋
  - [Design Patterns Explained: A New Perspective on Object Oriented Design](https://www.amazon.com/Design-Patterns-Explained-Perspective-Oriented/dp/0321247140/ref=sr_1_2?s=books&ie=UTF8&qid=1496055132&sr=1-2&keywords=alan+shalloway)
 
 ## Machine Learning
+
+ - [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
